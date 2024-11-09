@@ -1,0 +1,15 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "virtualMachines_lab04_vm_name": {
+            "value": null
+        },
+        "disks_lab04_vm_disk1_78b64b9f3c274aebae46361543eb13ca_externalid": {
+            "value": null
+        },
+        "networkInterfaces_lab04_vm270_z3_externalid": {
+            "value": null
+        }
+    }
+}
